@@ -1,0 +1,37 @@
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em helvetica, sans-serif;
+}
+
+tr{
+    height: 16.02vh;
+    background-color: #4e494d;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid #4e4d4e;
+}
+
+#inputBox{
+    width: 100%;
+    background-color: #4e494d;
+    border: 0px;
+    text-align: right;
+    color: #fff;
+    font-size: 2em;
+}
+
+.digitBtn{
+    background-color: #807e80;
+}
+
+.operatorBtn{
+    background-color: #ffa500;
+}
+
+.ACBtn{
+    background-color: #656165;
+}
